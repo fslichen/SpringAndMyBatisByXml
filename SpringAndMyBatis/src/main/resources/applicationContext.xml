@@ -21,4 +21,5 @@
 	<voldemort:annotation-driven />
 	<context:component-scan base-package="evolution" />
 	<!-- The tags without : refer to the index http://www.springframework.org/schema/beans. -->
+	<!-- Check for https://github.com/mybatis/jpetstore-6 for more information. -->
 </beans>
