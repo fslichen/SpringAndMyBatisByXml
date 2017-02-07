@@ -20,4 +20,5 @@
 	<!-- If you use the definition above, then voldemort refers to the index http://www.springframework.org/schema/mvc. -->
 	<voldemort:annotation-driven />
 	<context:component-scan base-package="evolution" />
+	<!-- The tags without : refer to the index http://www.springframework.org/schema/beans. -->
 </beans>
