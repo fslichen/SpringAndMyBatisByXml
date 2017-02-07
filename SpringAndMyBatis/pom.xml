@@ -12,6 +12,7 @@
 			<artifactId>spring-webmvc</artifactId>
 			<version>4.3.6.RELEASE</version>
 		</dependency>
+		<!-- It seems that there will always be a server start up failure when mybatis related packages are included. -->
 	</dependencies>
 	<build>
 		<plugins>
